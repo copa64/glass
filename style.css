@@ -91,6 +91,8 @@ body {
 
 .main h1 {
   font-size: 42px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 p {
